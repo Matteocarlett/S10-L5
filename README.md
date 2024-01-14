@@ -5,6 +5,8 @@ Installazioni : <br>
 [npm i bootstrap];<br>
 [npm i bootstrap-icons];
 
+## IL LAVORO NON E' RESPONSIVE, DA VISUALIZZARE IN 1280 X 720:
+
 ## Lavoro:
 
 Sito metereologico molto basilare, con navbar e account <br>
